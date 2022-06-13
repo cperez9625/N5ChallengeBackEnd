@@ -1,11 +1,8 @@
-﻿using N5.Api.Controllers;
-using MediatR;
+﻿using MediatR;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using N5.ApiTests.Config;
-using N5.Shared;
-using System;
 using N5.Api.Models;
+using N5.ApiTests.Config;
 
 namespace N5.Api.Controllers.Tests
 {
