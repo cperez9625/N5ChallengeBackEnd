@@ -45,7 +45,7 @@ namespace N5.Api.Controllers
         }
 
         [HttpPut]
-        public async Task<Permission> UpdatePermissionType([FromBody] PermissionRequest permission)
+        public async Task<Permission> UpdatePermission([FromBody] PermissionRequest permission)
         {
             if (String.IsNullOrEmpty(permission.EmployeeFirstName) || String.IsNullOrEmpty(permission.EmployeeLastName) || permission.PermissionType == 0)
                 ModelState.AddModelError("FirstName/LastName/PermissionType", "The FirstName, LastName or PermissionType shouldn't be empty");
