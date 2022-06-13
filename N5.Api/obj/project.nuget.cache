@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "7dlX2deU9cnSsyKmS8vbKWS+LT0X3JQXKvxUGp6Ns/avSUXzF+AmEkmKlAB4eorD1Y29moYw+sDAwnlaZYdoWw==",
+  "dgSpecHash": "0Yt2QXXgrA/kz7ESiNZFhQ/EDooDEU6XkA1cyVUq2eDjASjd6ecJ0knEpxlXkttjBah+m7Y+beKejvXr+ALCfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian\\Desktop\\N5Challenge\\N5.Api\\N5.Api.csproj",
+  "projectFilePath": "C:\\Users\\Christian\\Desktop\\N5ChallengeContainer\\N5Challenge\\N5.Api\\N5.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Christian\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\Christian\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.5\\microsoft.aspnetcore.jsonpatch.6.0.5.nupkg.sha512",
     "C:\\Users\\Christian\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.5.nupkg.sha512",
     "C:\\Users\\Christian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

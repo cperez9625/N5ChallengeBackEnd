@@ -10,3 +10,15 @@ C:\Users\Christian\source\repos\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared
 C:\Users\Christian\source\repos\N5Challenge\N5.Shared\obj\Debug\net6.0\refint\N5.Shared.dll
 C:\Users\Christian\source\repos\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.pdb
 C:\Users\Christian\source\repos\N5Challenge\N5.Shared\obj\Debug\net6.0\ref\N5.Shared.dll
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\bin\Debug\net6.0\N5.Shared.deps.json
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\bin\Debug\net6.0\N5.Shared.dll
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\bin\Debug\net6.0\N5.Shared.pdb
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.AssemblyInfo.cs
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.dll
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\refint\N5.Shared.dll
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\N5.Shared.pdb
+C:\Users\Christian\Desktop\N5ChallengeContainer\N5Challenge\N5.Shared\obj\Debug\net6.0\ref\N5.Shared.dll

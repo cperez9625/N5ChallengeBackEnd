@@ -6,7 +6,7 @@ using N5.Shared;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using System.Configuration;
-
+using MediatR;
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
@@ -24,6 +24,8 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 });
+
+builder.Services.AddMediatR(typeof(EntryPoint).Assembly);
 builder.Services.AddControllers()
     .AddNewtonsoftJson(options =>
     {
