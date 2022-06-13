@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using N5.Data;
 using N5.Data.Interfaces;
@@ -5,8 +6,6 @@ using N5.Data.Repositories;
 using N5.Shared;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using System.Configuration;
-using MediatR;
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 

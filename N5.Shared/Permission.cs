@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace N5.Shared
+﻿namespace N5.Shared
 {
     public class Permission
     {

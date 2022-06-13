@@ -1,14 +1,7 @@
-﻿using FakeItEasy;
+﻿using MediatR;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using N5.Api.Controllers;
+using Moq;
 using N5.ApiTests.Config;
-using N5.Data.Interfaces;
-using N5.Shared;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace N5.Api.Controllers.Tests
 {
@@ -18,13 +11,11 @@ namespace N5.Api.Controllers.Tests
         [TestMethod()]
         public void GetPermissionTest()
         {
-
             var context = N5ChallengeContextInMemory.Get();
-            //var c = 
-            //A.
-           
-            //var controller = new PermissionController();
-            Assert.Fail();
+            var mediator = new Mock<IMediator>();
+            var controller = new PermissionController(context, mediator.Object);
+            var testie = controller.GetPermission();
+            Assert.IsTrue(testie!=null);
         }
     }
 }

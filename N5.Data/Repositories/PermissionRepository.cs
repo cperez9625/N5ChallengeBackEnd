@@ -32,9 +32,6 @@ namespace N5.Data.Repositories
 
         public Permission UpdateItem(Permission item)
         {
-            //var testie = _challengeContext.Permissions.AsNoTracking();
-            //_challengeContext.Attach(item);
-            //_challengeContext.Permissions.Remove(item);
             _challengeContext.ChangeTracker.Clear();
             _challengeContext.Permissions.Update(item);
             _challengeContext.SaveChanges();
